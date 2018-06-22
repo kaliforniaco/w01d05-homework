@@ -4,8 +4,36 @@
 		"selected_items":
 		[
 			[
+				"length",
+				"lengthArray"
+			],
+			[
+				"mu",
+				"multiArray"
+			],
+			[
 				"get",
-				"getRandomInt"
+				"getMultipleLengths"
+			],
+			[
+				"fi",
+				"fierceAccesory"
+			],
+			[
+				"fir",
+				"fiercePants"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"ou",
+				"ourClass"
+			],
+			[
+				"Rano",
+				"randomThings"
 			],
 			[
 				"en",
@@ -51,7 +79,7 @@
 			"file": "/Users/depps/ga_wdi_funky_ducks/0615_Objects/w01d05-homework/index.html",
 			"settings":
 			{
-				"buffer_size": 216,
+				"buffer_size": 432,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -66,13 +94,10 @@
 			}
 		},
 		{
-			"contents": "console.log(\"END OF LINE\");\n\n\n#The Farm\nlet ",
 			"file": "app.js",
-			"file_size": 27,
-			"file_write_time": 131735754820000000,
 			"settings":
 			{
-				"buffer_size": 44,
+				"buffer_size": 7709,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -81,7 +106,7 @@
 			"file": "/Users/depps/ga_wdi_funky_ducks/0615_Objects/w01d05-homework/css/style.css",
 			"settings":
 			{
-				"buffer_size": 61,
+				"buffer_size": 66,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -107,7 +132,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 137.0,
 		"history":
 		[
 		]
@@ -191,15 +216,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 216,
+						"buffer_size": 432,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								216,
-								216
+								120,
+								120
 							]
 						],
 						"settings":
@@ -210,7 +235,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -237,10 +262,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 499.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -249,15 +274,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 44,
+						"buffer_size": 7709,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								7700,
+								7700
 							]
 						],
 						"settings":
@@ -265,7 +290,7 @@
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5518.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -277,15 +302,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 61,
+						"buffer_size": 66,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								61,
-								61
+								45,
+								45
 							]
 						],
 						"settings":
@@ -296,7 +321,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -364,12 +389,16 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 300.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"theFarm"
+			]
 		],
-		"width": 0.0
+		"width": 592.0
 	},
 	"selected_group": 0,
 	"settings":

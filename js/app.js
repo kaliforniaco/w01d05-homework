@@ -344,6 +344,64 @@ const getMultipleLengths=multiArray => {
 }
 console.log(`${getMultipleLengths(["hello", "what", "is", "up", "dude"])}`);
 
+//-
+
+// FUNCTIONS 6
+
+const maxOfThree = (max1, max2, max3) => {
+	return (Math.max(max1,max2,max3));
+}
+	console.log(`${maxOfThree(12, 34, 34)}`);
+
+//-
+
+// FUNCTIONS 7
+/*
+const printLongestWord = (wordArray) => {
+	lengthArray=[];
+	for (i=0; i<wordArray.length-1; i++) {
+		console.log(lengthArray.push(wordArray[i].length));
+	}
+	console.log(lengthArray);
+}
+console.log(wordArray("BoJack", "Princess", "Diane", "a", "Max", "Peanutbutter", "big", "Todd"));
+*/
+//-** BROKEN
+
+// FUNCTIONS 8
+const transmorgify = (num1,num2,num3) => {
+	return (Math.pow((num1*num2),(num3)));
+}
+console.log(transmorgify(5,3,2));
+
+//-
+
+// Objects>Syntax
+// {} bracket notation
+// x.meth dot notation
+// [] array
+
+
+// Me
+
+const me = {
+	'name':
+	'David',
+	'age':
+	45,
+	'email':
+	'david.epps.ga@gmail.com'
+}
+
+console.log(me.name);
+me.age=100;
+console.log(me.age);
+
+
+
+
+
+
 
 
 
